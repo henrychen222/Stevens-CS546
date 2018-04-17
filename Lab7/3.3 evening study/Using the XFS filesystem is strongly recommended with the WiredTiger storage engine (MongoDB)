@@ -1,0 +1,14 @@
+https://askubuntu.com/questions/894949/startup-warnings-after-upgrading-from-mongodb-2-6-to-3-4/895168
+
+
+
+(Not read)
+https://docs.mongodb.com/manual/administration/production-notes/
+https://dba.stackexchange.com/questions/160538/mongodb-unable-to-change-mongodb-storage-engine-to-wiredtiger   (good)
+https://jira.mongodb.org/browse/SERVER-27221
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-mongodb-on-ubuntu-16-04
+https://groups.google.com/forum/#!topic/mongodb-user/gqYPrReNNBc
+https://github.com/bigchaindb/bigchaindb/issues/1489
+https://github.com/moby/moby/issues/34426
+https://stackoverflow.com/questions/42431954/xfs-or-ext4-filesystem-mongodb-server-on-ubuntu-machine
+https://www.percona.com/blog/2016/08/12/tuning-linux-for-mongodb/

@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/8857276/how-do-i-drop-a-mongodb-database-from-the-command-line   (not work)
+
+(Not read)
+https://www.tutorialspoint.com/mongodb/mongodb_drop_database.htm   (solve)
+https://docs.mongodb.com/manual/reference/method/db.dropDatabase/

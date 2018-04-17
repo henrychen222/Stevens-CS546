@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/41615574/mongodb-server-has-startup-warnings-access-control-is-not-enabled-for-the-dat
+https://stackoverflow.com/questions/41615574/mongodb-server-has-startup-warnings-access-control-is-not-enabled-for-the-dat/42926515
+https://teamtreehouse.com/community/access-control-for-mongodb
+
+
+(Not read)
+https://dba.stackexchange.com/questions/134062/server-warnings-on-mongodb-startup   (good)       (disable THP on Linux machines)
+https://docs.mongodb.com/manual/tutorial/transparent-huge-pages/
+
+
+https://jira.mongodb.org/browse/SERVER-17949
+https://jira.mongodb.org/browse/SERVER-27576
+https://github.com/josephspurrier/gowebapp/issues/12
+https://askubuntu.com/questions/894949/startup-warnings-after-upgrading-from-mongodb-2-6-to-3-4
+https://bioinfoconcepts.blogspot.com/2015/10/mongodb-startup-warnings-after-update.html
+https://qiita.com/SOJO/items/dc5bf9b4375eab14991b     (good)      (disable THP on Linux machines)
+
