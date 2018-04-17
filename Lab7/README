@@ -1,8 +1,15 @@
-1 npm run seed 
+The Requirements and specifications are in Lab7.pdf
+
+My project is Wei_Chen_CS546_Lab7(final).zip
+
+After downloading this zip file:
+1 install required node modules
+
+2 npm run seed 
    to start the mongo database
 
-2 npm start
+3 npm start
    run project
 
 
-3 use postman to check each method(GET, POST, PUT,PATCH, DELETE)
+4 use postman to check each method(GET, POST, PUT,PATCH, DELETE)
