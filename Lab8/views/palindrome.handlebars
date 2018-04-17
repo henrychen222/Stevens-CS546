@@ -1,0 +1,27 @@
+<main>
+    <p>A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward as forward, such
+        as madam or racecar. Sentence-length palindromes may be written when allowances are made for adjustments to capital
+        letters, punctuation, and word dividers, such as "A man, a plan, a canal, Panama!", "Was it a car or a cat I saw?"
+        or "No 'x' in Nixon".</p>
+    <form method="post" action="/result" name="text-to-test">
+        <!--label and the textarea input has the same id palindrome-->
+        <label for="palindrome">Palindrome Checker</label>
+        <br>
+        <textarea name="palindrome" id="palindrome" cols="115" rows="10"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="error-container" class="hidden">
+    </div>
+    <div>
+        <ul id="list-palindrome"></ul>
+    </div>
+    <footer>
+        <div>
+            <ul id="student-info">
+                <li>Name: Wei Chen</li>
+                <li>Student ID: 10432881</li>
+                <li>About me: I am a Master Student in Computer Science</li>
+            </ul>
+        </div>
+    </footer>
+</main>

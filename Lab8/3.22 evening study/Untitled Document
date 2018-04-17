@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/3143698/uncaught-syntaxerror-unexpected-token
+https://www.codecademy.com/en/forum_questions/55dbac3ad3292f834100071b
+https://github.com/react-boilerplate/react-boilerplate/issues/1676
+https://idiallo.com/javascript/uncaught-syntaxerror-unexpected-token#n  (good)
+
+
+
+solved by removing 
+<script src="/public/css/styles.css"></script>    in the main.handlebar
+

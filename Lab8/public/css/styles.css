@@ -1,0 +1,61 @@
+/* This file should have 5 rulesets that apply to the / route, 
+and 5 rulesets that apply to /result. Rulesets may be shared across both pages */
+
+
+/*Body Formatting*/
+*, html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* paragraph*/
+p{
+   color: blueviolet;
+   background-color: aqua;
+}
+
+/*Text Area*/
+textarea {
+    background-color: #ffffe0;
+}
+
+/*Palindrome List*/
+#list-palindrome { 
+    list-style-type: none;
+}
+
+/*Palindrome Settings*/
+.success {
+    background-color: #28a745;
+}
+.failure {
+    background-color: #dc3545;
+}
+
+/*Error Settings*/
+.hidden {
+    display: none;
+}
+#error-container {
+    background-color: #d87093;
+}
+button {
+    padding: 10px;
+    background-color: #87cefa;
+}
+
+
+/*Student Info*/
+#student-info {
+    list-style-type: none;
+}
+#student-info li {
+    display: inline;
+    padding: 5px;
+    position: relative;
+    top: 150px;
+}
+

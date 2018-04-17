@@ -1,0 +1,7 @@
+https://idiallo.com/javascript/uncaught-syntaxerror-unexpected-token#n
+
+
+
+solved by removing 
+<script src="/public/css/styles.css"></script>    in the main.handlebar
+
