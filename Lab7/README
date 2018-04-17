@@ -2,8 +2,8 @@ The Requirements and specifications are in Lab7.pdf
 
 My project is Wei_Chen_CS546_Lab7(final).zip
 
-After downloading this zip file:
-1 install required node modules
+After downloading this zip file, go to the project directory:
+1 install required node modules (sudo npm install packages --save (linux))
 
 2 npm run seed 
    to start the mongo database
