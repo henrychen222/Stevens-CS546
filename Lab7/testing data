@@ -1,0 +1,64 @@
+POST   (add new recipe)
+{
+        "title": "Beef ramen",
+        "ingredients": [
+            {
+                "name": "Beef ramen",
+                "amount": "5 pieces"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": "4 tbsp"
+            }
+        ],
+        "steps": [
+            "heat the oil for 2 minutes",
+            "add some pepper",
+            "fire the beef",
+            "boil ramen",
+            "mix beef and ramen"
+            
+        ]
+    }
+
+
+
+PUT
+    {
+        "title": "sadine fish",
+        "ingredients": [
+            {
+                "name": "sadine cans",
+                "amount": "2 cans"
+            },
+            {
+                "name": "Onion",
+                "amount": "quater onion"
+            }
+        ],
+        "steps": [
+            "fry the onion for 1 minute",
+            "add 2 cans of sadine",
+            "flip over each fish chunks",
+            "add sauces",
+            "add water boiling for another 15 minutes"
+            
+        ]
+    }
+
+PUT and PATCH (partial modify)
+
+{
+        "title": "sadine fish",
+        "ingredients": [
+            {
+                "name": "sadine cans",
+                "amount": "2 cans"
+            },
+            {
+                "name": "Onion",
+                "amount": "quater onion"
+            }
+        ],
+        
+    }

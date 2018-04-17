@@ -1,0 +1,8 @@
+1 npm run seed 
+   to start the mongo database
+
+2 npm start
+   run project
+
+
+3 use postman to check each method(GET, POST, PUT,PATCH, DELETE)
