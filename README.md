@@ -1,5 +1,15 @@
 # Stevens-CS546
 
+Access Lecture Contents here:
+
+https://drive.google.com/drive/folders/1XQbU8K_vlfOlTHEZ-s8VmpRipTq8vuXu?usp=sharing
+
+Access full codes here:
+
+https://drive.google.com/drive/folders/18iz_ZhLC-G6CGGXwS8XFURl9TKpL8APw?usp=sharing
+
+
+----------------------------------------------------------------------------------------------------------------------------
 For Lab2  
 Requirements are in Lab2.pdf.Three files need to write index.js, geometry.js, and utilities.js. Download Wei_Chen(final).zip 
 
